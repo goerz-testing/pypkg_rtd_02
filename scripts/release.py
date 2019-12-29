@@ -42,7 +42,6 @@ def make_release(package_name):
     run_tests()
     push_release_commit()
     make_upload(test=True)
-    make_upload(test=False)
     make_and_push_tag(new_version)
     next_dev_version = new_version + '+dev'
     set_version(

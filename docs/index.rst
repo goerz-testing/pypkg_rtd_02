@@ -13,7 +13,7 @@ Welcome to PyPkg RTD 02's documentation!
    :alt: Travis Continuous Integration
    :target: https://travis-ci.org/goerz-testing/pypkg_rtd_02
 
-.. image:: https://img.shields.io/badge/appveyor-no%20id-red.svg
+.. image:: https://ci.appveyor.com/api/projects/status/wopytdr40yy5k8lw?svg=true
    :alt: AppVeyor Continuous Integration
    :target: https://ci.appveyor.com/project/goerz/pypkg-rtd-02
 

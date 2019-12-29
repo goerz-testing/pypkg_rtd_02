@@ -1,6 +1,6 @@
 """Top-level package for PyPkg RTD 02."""
 
-__version__ = '0.1.0-dev'
+__version__ = '0.1.0'
 
 # All members whose name does not start with an underscore must be listed
 # either in __all__ or in __private__
